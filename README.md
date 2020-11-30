@@ -1,3 +1,3 @@
 # R-Projects
 
-Basic Explratory data analysis in R
+Basic Exploratory data analysis in R
